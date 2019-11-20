@@ -9,8 +9,9 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Collaborative Collective"]
   spec.email         = ["info@collabcollective.com"]
 
-  spec.summary       = %q{ Small utility to add sprinkles to your terminal }
-  spec.description   = %q{ This utility have the last goal to rendere terminal output beautiful.}
+  spec.summary       = %q{ Small utility to add visual formatting to your terminal output }
+  spec.description   = %q{ This utility have the last goal to render terminal output
+                          in a well, colourful formatted outputs}
   spec.homepage      = "https://collabcollective.com/"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
